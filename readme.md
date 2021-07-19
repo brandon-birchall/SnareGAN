@@ -22,7 +22,7 @@ Clearly, the model has learned that a snare sound typically has a transient (The
 
 Additionally, the STFT analysis shows strong similarities. With the initial first peak and subsequent tail noise.
 
-However, there is no smooth tail, it is fairly abrubt. Additionally, on listening to the output, it sounds 'squeeky' with a noticable wet sounding noise. 
+However, there is no smooth tail, it is fairly abrubt. Additionally, on listening to the output, it sounds 'squeeky' with a noticable wet sounding noise. However the first transient sounds really good and this could easily be processing within a DAW to sound much closer to an actual snare sound.
 
 # Further work
 
